@@ -1,9 +1,11 @@
-.NET Framework是一种框架
+.NET包括.NET Framework(运行平台）和Visual Studio（开发工具）
+.NET Framework是一种框架、平台，在该平台上可以使用多种语言如VB.NET、C#、VC++、JScript等，C#只是其中的一种。
 框架中包括各种类库(已经编译好的类仓库，可以直接用using调用）和CLR（公用语言进行时）
 类库中包含：
-1）ASP.NET(Web Forms、Web Services)
+1）ASP.NET(Web Forms、Web Services)，是一种技术，后台是用C#编写的
 2) Windows Forms
 3) ADO.NET和XML类
 4）基本框架类
 CLR：CLS（通用类型系统）和CTS（公共语言规范）
+不同的语言可以通过遵守CTS从而能够相互调用
 
