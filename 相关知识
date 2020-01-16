@@ -9,5 +9,9 @@
 4）编译后形式：.NET中间语言
 5）异常处理：try catch
 
-2 使用范围：网站、企业级、手机
-3 最新版本：2019年 c#8.0 .NET Framework 4.8 Visual Studio 2019
+3 使用范围：网站、企业级、手机
+4 最新版本：2019年 c#8.0 .NET Framework 4.8 Visual Studio 2019
+5 项目类型
+1）DOS--控制台应用（.NET Framework) 注意：不是.NET Core 
+2）C/S (Client/Server)客户端/服务器--Windows窗体应用（.NET Framework)
+3）B/S Browser/Server 浏览器/服务器--ASP.NET网站（ASP.NET Web窗体应用程序）
