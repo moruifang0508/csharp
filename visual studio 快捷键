@@ -1,0 +1,41 @@
+1 编辑相关的键盘快捷键
+　　Ctrl + Enter ： 在当前行上方插入空行
+　　Ctrl + Shift + Enter ：在当前行下方插入空行
+    Ctrl + L ：删除光标所在行
+　　Ctrl + J ：代码智能提示
+　　Ctrl + Shift +} ：选中匹配的括号、括号内的所有文本
+　　Ctrl + K，Ctrl + C ：注释选定行（按住Ctrl，先按K再按C）
+　　Ctrl + K，Ctrl + U ：取消选定行的注释（按住Ctrl，先按K再按U）
+　　Ctrl + K，Ctrl + D ：正确对齐所有代码（按住Ctrl，先按K再按D）
+    Ctrl + M，Ctrl + M ：关闭/打开整个方法（按住Ctrl，按两次M）
+　　Shift + End ：从头到尾选择整行
+　　Shift + Home ： 从尾到头选择整行
+    Shift + Tap ：取消制表符，即取消整体缩进
+    Ctrl + Delete ：删除至词尾
+    Ctrl + Backspace ：删除至词头
+    Ctrl + U ：转小写
+    Ctrl + Shift + U ：转大写
+    
+2 导航相关的键盘快捷键
+    CTRL + Page Down：光标定位到窗口上方
+    CTRL + Page Up：光标定位到窗口下方
+
+3 调试相关的键盘快捷键
+　　Ctrl + Alt + P ： 附加到进程
+　　F10 ： 调试单步执行
+　　F5 ： 开始调试
+    Ctrl + F5 ：编译运行
+　　Shift + F5 ： 停止调试
+　　Ctrl + Alt + Q ： 添加快捷匹配
+　　F9 ： 设置或删除断点
+  
+4 搜索相关的键盘快捷键
+　　Ctrl + K ，Ctrl + K ： 将当前行添加书签（按住Ctrl，按两次K）
+　　Ctrl + K ，Ctrl + N ： 导航至下一个书签（按住Ctrl，先按K再按N）
+　　Ctrl + . ： 如果你键入一个类名如 Collection<string>，且命名空间导入不正确的话，那么这个快捷方式组合将自动插入导入，需要注意与搜狗输入法的中英文标点切换快捷键冲突
+　　Ctrl + Shift + F ： 在文件中查找
+　　Shift  + F12 ： 查找所有引用
+　　Ctrl + F ： 显示查找对话框
+　　Ctrl + H ： 显示替换对话框
+　　Ctrl + G ： 跳转到行号或行
+　　
