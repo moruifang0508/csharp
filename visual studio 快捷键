@@ -16,6 +16,9 @@
     Ctrl + U ：转小写
     Ctrl + Shift + U ：转大写
     
+    智能补全：对于c#，按enter；对于python，按tab
+
+    
 2 导航相关的键盘快捷键
     CTRL + Page Down：光标定位到窗口上方
     CTRL + Page Up：光标定位到窗口下方
