@@ -4,3 +4,6 @@
 3)查询到csc.exe所在的路径，比如在以下路径：C:\Windows\Microsoft.NET\Framework64\v4.0.30319，,如果要编译的文件名为program.cs,在命令行输入：
 C:\Windows\Microsoft.NET\Framework64\v4.0.30319\csc program.cs
 就会生成.exe文件
+
+
+2 使用vs，在解决方案资源管理器里，选择要编译的方案，右键，选择再生成，即可在bin/debug 文件夹中生成.exe文件
