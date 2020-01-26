@@ -1,0 +1,6 @@
+1 命令方式，不需要安装vs，使用window自带的csc.exe 步骤：
+1）通过win+r 输入cmd 打开window命令窗口
+2）将当前文件夹定位到要编译的.cs文件所在的文件夹
+3)查询到csc.exe所在的路径，比如在以下路径：C:\Windows\Microsoft.NET\Framework64\v4.0.30319，,如果要编译的文件名为program.cs,在命令行输入：
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\csc program.cs
+就会生成.exe文件
